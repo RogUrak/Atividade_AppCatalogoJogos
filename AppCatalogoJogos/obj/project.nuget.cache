@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rarDqmssihtZvrG1eHrT2JR2hqKXPl6EM1upBSe5HMUyTqbGdDR0tJ5QIc1zIrX8NIME6DkvLFhyGrwgnYYjw==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\AppCatalogoJogos\\AppCatalogoJogos\\AppCatalogoJogos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RUrakawa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RUrakawa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RUrakawa\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\RUrakawa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\RUrakawa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\RUrakawa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
